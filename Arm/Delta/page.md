@@ -1,51 +1,11 @@
-# NMD Delta系列
+# Phoines Turves
+## 属于THEARCWORLD的Turves Gen7系列
 
-[主页](https;//github.com/THEARCWORLD/NMD-SoC/)
+### CPU 部分
 
-* 架构：Delta Krint
-* 市场：Arm移动端
-
----
-
-## CPU规格
-### NMD 悦龙
-Delta Krint架构
-- 日益的性能引领着
-- 先进的架构与工艺
-
-
----
-
-## 显卡规格
-### NMD 悦龙 Graphics
-Vurtel Engine 4架构
-- 全新图形引领着
-- 图形性能首选
-- 开源的图形驱动
-
----
-## AI功能
-### NMD Aurora Engine
-Vurtel Engine 4N架构
-- 全新的AI架构
-- 日益的训练
-
----
-
-## 视频功能
-### NMD 悦龙R2P VPU
-Vurtel Engine 4V架构
-- 完整的解码支持
-- 更好的编码结构
-- 完善的API
-
----
-
-## 我们的产品
-* [NMD 第一代悦龙Radiant](./Arm/Family/NMD_YD_R.md)
-* [NMD 第一代悦龙Radiant Pro](./Arm/Family/NMD_YD_RP.md)
-* [NMD 第一代悦龙Radiant s](./Arm/Family/NMD_YD_Rs.md)
-* [NMD 第一代悦龙Xenilcey](./Arm/Family/NMD_YD_X.md)
-* [NMD 第一代悦龙Xenilcey Pro](./Arm/Family/NMD_YD_XP.md)
-* [NMD 第一代悦龙Xenilcey Lite](./Arm/Family/NMD_YD_Xi.md)
-* [NMD 第一代悦龙Xenilcey Ultra](./Arm/Family/NMD_YD_XU.md)
+| 型号 | 代号 | 性能核 |  能效核 | 省电核 | 默频 | P核睿频 | E核睿频 | L1缓存 | L2缓存 | L3缓存 | eLLC缓存 | SLC缓存 | TDP |
+| :---------: | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: |
+| Xyclon Ultra | Xu-Gen7 | 12核 | 6核12线程 | 4核 | 3.2Ghz | 5.2Ghz | 4.8Ghz | 2368KB | 20MB | 80MB | - MB | 8MB | 175W |
+| Xyclon Max | Xm-Gen7 | 8核 | 6核12线程 | 4核 | 3.2Ghz | 5.2Ghz | 4.8Ghz | 2112KB | 18MB | 72MB | - MB | 8MB | 160W |
+| Xyclon Plus | Xp-Gen7 | 8核 | 4核8线程 | 2核 | 3.2Ghz | 5.15Ghz | 4.8Ghz | 1920KB | 16MB | 64MB | - MB | 8MB | 145W |
+| Xyclon | X-Gen7 | 6核 | 4核8线程 | 2核 | 3.2Ghz | 5.1Ghz | 4.8Ghz | 1664KB | 14MB | 56MB | - MB | 8MB | 140W |
